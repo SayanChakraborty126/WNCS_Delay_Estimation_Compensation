@@ -2,8 +2,8 @@
 
 > Implemented in Arduino embedded platform using Bluetooth technology
 
-![GitHub stars](https://img.shields.io/github/stars/SayanChakraborty126/WNCS_Delay_Estimation_Compensatio) 
-![GitHub forks](https://img.shields.io/github/forks/SayanChakraborty126/WNCS_Delay_Estimation_Compensatio)
+- This project has got published as a journal article below :
+ [<b>SOnline Delay Estimation and Adaptive Compensation in Wireless Networked System: An Embedded Control Design</b>](https://link.springer.com/article/10.1007/s12555-018-0612-x) 
 
 ### Block diagram of the set up
 <p align="center"> 
